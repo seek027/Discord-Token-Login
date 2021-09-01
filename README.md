@@ -11,15 +11,17 @@
  - selenium
 
 # How to use
-##Method 1
+#Method 1
  1. Install the requirements.
  2. Launch [login.py](login.py).
  3. Enter the token of the account you wish to connect to.
  4. Wait...
-##Method 2
- 6. Open the [login.exe](login.exe).
- 7. Enter the token.
- 8. Wait...
+ 
+#Method 2
+
+ 1. Open the [login.exe](login.exe).
+ 2. Enter the token.
+ 3. Wait...
 
 # Caution
 This script is for educational purposes. I am in no way responsible for any inconvenience.
